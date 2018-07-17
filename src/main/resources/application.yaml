@@ -1,0 +1,78 @@
+server:
+  port: 8091
+  servlet-path: /
+security:
+  basic:
+    enabled: false
+spring:
+  datasource:
+    jdbcUrl: jdbc:mysql://master-ump-server:3306/ump?useSSL=false&useUnicode=yes&characterEncoding=UTF-8
+    username: ump
+    password: ump@2018
+    driverClassName: com.mysql.jdbc.Driver
+  redis:
+    hostName: master-ump-server
+    port: 6379
+    password: ump@2018
+  rabbitmq:
+    host: master-ump-server
+    port: 5672
+    username: admin
+    password: ump@2018
+  jersey:
+    application-path: /api
+  mail:
+    host: mail.vnpt-technology.vn
+    port: 25
+    username: ump@vnpt-technology.vn
+    password: Ump@123
+  kafka:
+    bootstrap-servers: 10.15.12.134:9092
+    topic:
+        threshold: threshold
+        qosKpi: qos-kpi
+        alarmList: alarm-list
+        notification: qos-notification
+  elk:
+     index:
+        qos: qos_index_elk
+        threshold_qos: threshold_qos_index_elk
+        alarm_qos: qos_alarm_list_index
+        notification_alarm: notify_alarm_index
+     type:
+        qos: qos_type_elk
+        threshold_qos: threshold_qos_type_elk
+        alarm_qos: qos_alarm_list_type
+        notification_alarm: notify_alarm_type
+  websocket:
+      topic:
+        notification-list: /app/notify-list/
+        notification-popup: /app/notify-popup/
+tmpDir: /tmp/ump
+acsEndpoint: http://localhost:7557
+elasticSearchUrl: http://master-ump-server:9200
+websocketUrl: ws://master-ump-server:8083/ump-websocket
+checkOnlineType : plugin
+xmpp:
+  host: localhost
+  port: 5222
+  username: admin
+  password: ump@2018
+  domain: xmpp-server
+  resource: ump
+  urlPresence : http://master-ump-server:9090/plugins/presence/status
+file:
+  endpoint: http://localhost:7557
+  url: http://10.15.12.134:7567
+backupFile:
+  endpoint: http://localhost:7557
+  url: http://10.15.12.134:7567
+  uploadUrl: http://10.15.12.134:7557
+stb:
+  pre_autho: S2Lowcost
+  suff_autho: permission.network.mobile
+thread-pool:
+  core-pool-size: 10
+  max-pool-size: 10
+  queue-capability: 500
+  timeout: 60

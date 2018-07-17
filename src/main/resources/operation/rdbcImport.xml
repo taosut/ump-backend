@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdbc>
+    <group name="DataModels">
+        <operation id="WEBAPP:DATAMODEL:READ" name="Read"></operation>
+        <operation id="WEBAPP:DATAMODEL:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:DATAMODEL:DELETE" name="Delete"></operation>
+        <operation id="WEBAPP:DATAMODEL:EXPORT" name="Export"></operation>
+    </group>
+    <group name="Devices">
+        <operation id="WEBAPP:DEVICE:READ" name="Read"></operation>
+        <operation id="WEBAPP:DEVICE:DELETE" name="Delete"></operation>
+        <operation id="WEBAPP:DEVICE:REBOOT" name="Reboot"></operation>
+        <operation id="WEBAPP:DEVICE:FACTORY_RESET" name="Factory Reset"></operation>
+        <operation id="WEBAPP:DEVICE:ADD_LABEL" name="Add Label"></operation>
+        <operation id="WEBAPP:DEVICE:DELETE_LABEL" name="Delete Label"></operation>
+        <operation id="WEBAPP:DEVICE:DELETE_LABEL" name="Delete Label"></operation>
+        <operation id="WEBAPP:DEVICE:REPLACE" name="Replace CPE"></operation>
+        <operation id="WEBAPP:DEVICE:RECHECK_STATUS" name="Recheck status"></operation>
+        <operation id="WEBAPP:DEVICE:PING" name="Ping"></operation>
+        <operation id="WEBAPP:DEVICE:SETTING" name="Setting"></operation>
+        <operation id="WEBAPP:DEVICE:RPC" name="Custom RPC"></operation>
+        <operation id="WEBAPP:DEVICE:DOWNLOAD" name="Download"></operation>
+        <operation id="WEBAPP:DEVICE:UPLOAD" name="Upload"></operation>
+        <operation id="WEBAPP:DEVICE:DIAGNOSTIC" name="Diagnostic"></operation>
+        <operation id="WEBAPP:DEVICE:ACTIVITY" name="Activity"></operation>
+    </group>
+    <group name="Logging">
+        <operation id="WEBAPP:LOGGING:READ" name="Read"></operation>
+        <operation id="WEBAPP:LOGGING:DELETE" name="Delete"></operation>
+        <operation id="WEBAPP:LOGGING:EXPORT" name="Export"></operation>
+        <operation id="WEBAPP:LOGGING:SETTING" name="Setting"></operation>
+    </group>
+    <group name="Subscribers">
+        <operation id="WEBAPP:SUBSCRIBER:READ" name="Read"></operation>
+        <operation id="WEBAPP:SUBSCRIBER:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:SUBSCRIBER:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:SUBSCRIBER:DELETE" name="Delete"></operation>
+    </group>
+    <group name="DataTemplates">
+        <operation id="WEBAPP:DATA_TEMPLATE:READ" name="Read"></operation>
+        <operation id="WEBAPP:DATA_TEMPLATE:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:DATA_TEMPLATE:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:DATA_TEMPLATE:DELETE" name="Delete"></operation>
+    </group>
+    <group name="Provisioning">
+        <operation id="WEBAPP:PROVISIONING:READ" name="Read"></operation>
+        <operation id="WEBAPP:PROVISIONING:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:PROVISIONING:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:PROVISIONING:DELETE" name="Delete"></operation>
+    </group>
+    <group name="Files">
+        <operation id="WEBAPP:FILE:READ" name="Read"></operation>
+        <operation id="WEBAPP:FILE:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:FILE:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:FILE:DELETE" name="Delete"></operation>
+    </group>
+    <group name="GroupFilters">
+        <operation id="WEBAPP:GROUP_FILTER:READ" name="Read"></operation>
+        <operation id="WEBAPP:GROUP_FILTER:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:GROUP_FILTER:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:GROUP_FILTER:DELETE" name="Delete"></operation>
+    </group>
+    <group name="Policies">
+        <operation id="WEBAPP:POLICY:READ" name="Read"></operation>
+        <operation id="WEBAPP:POLICY:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:POLICY:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:POLICY:DELETE" name="Delete"></operation>
+        <operation id="WEBAPP:POLICY:EXCUTE" name="Excute"></operation>
+        <operation id="WEBAPP:POLICY:STOP" name="Stop"></operation>
+    </group>
+    <group name="Users">
+        <operation id="WEBAPP:USER:READ" name="Read"></operation>
+        <operation id="WEBAPP:USER:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:USER:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:USER:DELETE" name="Delete"></operation>
+        <operation id="WEBAPP:USER:RESET_PASSWORD" name="Password"></operation>
+        <operation id="WEBAPP:USER:FORGOT_PASSWORD" name="Forgot password"></operation>
+    </group>
+    <group name="Roles">
+        <operation id="WEBAPP:ROLE:READ" name="Read"></operation>
+        <operation id="WEBAPP:ROLE:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:ROLE:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:ROLE:DELETE" name="Delete"></operation>
+    </group>
+    <group name="Permissions">
+        <operation id="WEBAPP:PERMISSION:READ" name="Read"></operation>
+        <operation id="WEBAPP:PERMISSION:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:PERMISSION:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:PERMISSION:DELETE" name="Delete"></operation>
+    </group>
+    <group name="Alarms">
+        <operation id="WEBAPP:ALARM_SETTING:READ" name="Read Setting"></operation>
+        <operation id="WEBAPP:ALARM_SETTING:CREATE" name="Create Setting"></operation>
+        <operation id="WEBAPP:ALARM_SETTING:UPDATE" name="Update Setting"></operation>
+        <operation id="WEBAPP:ALARM_SETTING:DELETE" name="Delete Setting"></operation>
+        <operation id="WEBAPP:ALARM:READ" name="Read"></operation>
+        <operation id="WEBAPP:ALARM:CLEAR" name="Update"></operation>
+        <operation id="WEBAPP:ALARM:DELETE" name="Delete"></operation>
+        <operation id="WEBAPP:ALARM:GRAPH" name="Graph"></operation>
+    </group>
+    <group name="Performances">
+        <operation id="WEBAPP:PERFORMANCE:READ" name="Read"></operation>
+        <operation id="WEBAPP:PERFORMANCE:CREATE" name="Create"></operation>
+        <operation id="WEBAPP:PERFORMANCE:UPDATE" name="Update"></operation>
+        <operation id="WEBAPP:PERFORMANCE:DELETE" name="Delete"></operation>
+        <operation id="WEBAPP:PERFORMANCE:EXPORT" name="Export"></operation>
+    </group>
+    <group name="Reports">
+        <operation id="WEBAPP:REPORT:EXPORT" name="Export"></operation>
+    </group>
+</rdbc>

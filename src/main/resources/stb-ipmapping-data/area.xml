@@ -1,0 +1,693 @@
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+<RECORD>
+<id>-2</id>
+<begin_address>0</begin_address>
+<cidr_sign></cidr_sign>
+<description>Ungroup</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Ungroup</name>
+<parent_id>-1</parent_id>
+</RECORD>
+<RECORD>
+<id>-1</id>
+<begin_address>0</begin_address>
+<cidr_sign></cidr_sign>
+<description>Việt Nam</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Việt Nam</name>
+<parent_id></parent_id>
+</RECORD>
+<RECORD>
+<id>2</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.180.0.0/14;10.36.0.0/14;10.192.0.0/16;10.253.0.0/16;10.255.0.0/16;10.40.0.0/14;10.4.0.0/14;10.8.0.0/14;10.12.0.0/14</cidr_sign>
+<description>Hà Nội</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hà Nội</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>4</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.224.0.0/14</cidr_sign>
+<description>Quảng Ninh</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Quảng Ninh</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>7</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.218.0.0/15;10.184.0.0/16</cidr_sign>
+<description>Vĩnh Phúc</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Vĩnh Phúc - Hòa Bình</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>11</id>
+<begin_address>0</begin_address>
+<cidr_sign></cidr_sign>
+<description>Thành Phố Vĩnh Yên, Vĩnh Phúc, Việt Nam</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Vĩnh Yên</name>
+<parent_id>7</parent_id>
+</RECORD>
+<RECORD>
+<id>12</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.198.0.0/15</cidr_sign>
+<description>Thái Nguyên</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Thái Nguyên</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>14</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.176.0.0/15</cidr_sign>
+<description>Hà Nam</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hà Nam</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>18</id>
+<begin_address>0</begin_address>
+<cidr_sign></cidr_sign>
+<description>Miền Bắc</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Miền Bắc</name>
+<parent_id>-1</parent_id>
+</RECORD>
+<RECORD>
+<id>19</id>
+<begin_address>0</begin_address>
+<cidr_sign></cidr_sign>
+<description>Miền Trung</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Miền Trung</name>
+<parent_id>-1</parent_id>
+</RECORD>
+<RECORD>
+<id>20</id>
+<begin_address>0</begin_address>
+<cidr_sign></cidr_sign>
+<description>Miền Nam</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Miền Nam</name>
+<parent_id>-1</parent_id>
+</RECORD>
+<RECORD>
+<id>24</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.236.0.0/14</cidr_sign>
+<description>Hải Dương</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hải Dương</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>27</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.248.0.0/14</cidr_sign>
+<description>Bắc Giang</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bắc Giang</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>32</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.220.0.0/14</cidr_sign>
+<description>Thanh Hoá</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Thanh Hóa</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>35</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.76.0.0/14</cidr_sign>
+<description>Khánh Hòa</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Khánh Hòa</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>40</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.160.0.0/14</cidr_sign>
+<description>Hải Phòng</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hải Phòng</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>41</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.124.0.0/14</cidr_sign>
+<description>Đắc Lắk - Đắk Nông</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Đắc Lắk - Đắk Nông</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>42</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.94.0.0/15</cidr_sign>
+<description>Phú Yên</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Phú Yên</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>43</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.204.0.0/15</cidr_sign>
+<description>Tỉnh Lào Cai</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Lào Cai</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>44</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.96.0.0/14</cidr_sign>
+<description>Đà Nẵng</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Đà Nẵng</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>45</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.168.0.0/14</cidr_sign>
+<description>Nam Định</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Nam Định</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>46</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.144.0.0/15</cidr_sign>
+<description>Bến Tre</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bến Tre</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>47</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.100.0.0/14</cidr_sign>
+<description>Huế</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Huế</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>48</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.208.0.0/15</cidr_sign>
+<description>Hòa Bình</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hòa Bình</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>49</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.88.0.0/15</cidr_sign>
+<description>Gia Lai</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Gia Lai</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>50</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.140.0.0/15</cidr_sign>
+<description>Cà Mau</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Cà Mau</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>51</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.232.0.0/14</cidr_sign>
+<description>Lạng Sơn</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Lạng Sơn</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>53</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.130.0.0/16</cidr_sign>
+<description>Tỉnh Hậu Giang</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hậu Giang</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>54</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.178.0.0/15</cidr_sign>
+<description>Tỉnh Ninh Bình</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Ninh Bình</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>55</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.134.0.0/15</cidr_sign>
+<description>Tỉnh An Giang</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>An Giang</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>56</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.84.0.0/14</cidr_sign>
+<description>Quảng Ngãi</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Quảng Ngãi</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>57</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.210.0.0/15</cidr_sign>
+<description>Hà Tĩnh</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hà Tĩnh</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>58</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.106.0.0/15</cidr_sign>
+<description>VNPT Quảng Trị</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Quảng Trị</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>59</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.44.0.0/14</cidr_sign>
+<description>Tỉnh Long An</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Long An</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>60</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.153.0.0/14</cidr_sign>
+<description>Tiền Giang</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Tiền Giang</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>61</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.156.0.0/14;10.132.0.0/16</cidr_sign>
+<description>Tỉnh Kiên Giang</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Kiên Giang</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>62</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.194.0.0/15</cidr_sign>
+<description>Tỉnh Yên Bái</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Yên Bái</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>63</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.138.0.0/15</cidr_sign>
+<description>Tỉnh Sóc Trăng - Vũng Tàu</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Sóc Trăng - Vũng Tàu</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>64</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.16.0.0/14;10.142.0.0/16</cidr_sign>
+<description>Vũng Tàu</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Vũng Tàu</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>65</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.245.0.0/15</cidr_sign>
+<description>Tỉnh Bắc Ninh</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bắc Ninh</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>70</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.193.0.0/16</cidr_sign>
+<description>Tỉnh Lai Châu</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Lai Châu - Điện Biên</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>71</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.32.0.0/15</cidr_sign>
+<description>Tỉnh Ninh Thuận</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Ninh Thuận</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>72</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.52.0.0/14;10.26.0.0/16</cidr_sign>
+<description>VNPT HCM</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hồ Chí Minh</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>73</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.212.0.0/15;10.188.0.0/16</cidr_sign>
+<description>Tỉnh Hà Giang - Nghệ An</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hà Giang - Nghệ An</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>74</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.60.0.0/14</cidr_sign>
+<description>Tỉnh Bình Dương</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bình Dương</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>75</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.48.0.0/14</cidr_sign>
+<description>Tỉnh Lâm Đồng</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Lâm Đồng</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>76</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.146.0.0/15</cidr_sign>
+<description>Tỉnh Vĩnh Long</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Vĩnh Long</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>77</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.56.0.0/14</cidr_sign>
+<description>Tỉnh Đồng Nai</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Đồng Nai</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>78</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.34.0.0/15</cidr_sign>
+<description>Tỉnh Bình Thuận</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bình Thuận</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>79</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.206.0.0/15</cidr_sign>
+<description>Tỉnh Điện Biên - Lai Châu</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Điện Biên - Lai Châu</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>80</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.92.0.0/15</cidr_sign>
+<description>Tỉnh Bình Định</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bình Định</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>81</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.128.0.0/15</cidr_sign>
+<description>Tỉnh Cần Thơ</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Cần Thơ</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>82</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.200.0.0/15</cidr_sign>
+<description>Tỉnh Sơn La</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Sơn La</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>83</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.20.0.0/14;10.28.0.0/16</cidr_sign>
+<description>Tỉnh Tây Ninh</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Tây Ninh</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>84</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.228.0.0/14</cidr_sign>
+<description>Tỉnh Nghệ An</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Nghệ An</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>85</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.104.0.0/15</cidr_sign>
+<description>Tỉnh Quảng Bình</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Quảng Bình</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>86</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.80.0.0/14</cidr_sign>
+<description>Tỉnh Quảng Nam</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Quảng Nam</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>87</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.216.0.0/15</cidr_sign>
+<description>Tỉnh Bắc Cạn</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bắc Cạn</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>88</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.148.0.0/15</cidr_sign>
+<description>Tỉnh Trà Vinh</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Trà Vinh</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>89</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.30.0.0/15</cidr_sign>
+<description>Tỉnh Bình Phước</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bình Phước</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>90</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.150.0.0/15</cidr_sign>
+<description>Tỉnh Đồng Tháp</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Đồng Tháp</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>91</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.196.0.0/15</cidr_sign>
+<description>Tỉnh Tuyên Quang</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Tuyên Quang</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>92</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.214.0.0/15</cidr_sign>
+<description>Tỉnh Cao Bằng</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Cao Bằng</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>93</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.90.0.0/16</cidr_sign>
+<description>Tỉnh Kon Tum</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Kon Tum</name>
+<parent_id>19</parent_id>
+</RECORD>
+<RECORD>
+<id>94</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.172.0.0/14</cidr_sign>
+<description>Tỉnh Thái Bình</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Thái Bình</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>95</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.164.0.0/14</cidr_sign>
+<description>Tỉnh Hưng Yên</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Hưng Yên</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>96</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.136.0.0/15</cidr_sign>
+<description>Tỉnh Bạc Liêu</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Bạc Liêu</name>
+<parent_id>20</parent_id>
+</RECORD>
+<RECORD>
+<id>97</id>
+<begin_address>0</begin_address>
+<cidr_sign>10.202.0.0/15</cidr_sign>
+<description>Tỉnh Phú Thọ</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>Phú Thọ</name>
+<parent_id>18</parent_id>
+</RECORD>
+<RECORD>
+<id>98</id>
+<begin_address>0</begin_address>
+<cidr_sign>192.168.1.0/24</cidr_sign>
+<description>124 HQV</description>
+<end_address>0</end_address>
+<ip_address></ip_address>
+<name>VNPT Tech</name>
+<parent_id>2</parent_id>
+</RECORD>
+</RECORDS>
